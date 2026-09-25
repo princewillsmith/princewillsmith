@@ -2,7 +2,7 @@
 
 **Network & Security Engineer** · Warsaw, Poland 🇵🇱 · Open to network and security engineering roles (hybrid or remote)
 
-I secure and troubleshoot enterprise networks. I spent over a year in **Palo Alto Networks TAC**, resolving complex firewall, VPN and routing cases for enterprise customers, and have **4+ years** in networking and IT overall. I work across on-prem firewalls, cloud networking, Kubernetes, and security monitoring with SIEM and EDR.
+I secure and troubleshoot enterprise networks. I spent over 2 year in **Palo Alto Networks TAC**, resolving complex firewall, VPN and routing cases for enterprise customers, and have **4+ years** in networking and IT overall. I work across on-prem firewalls, cloud networking, Kubernetes, and security monitoring with SIEM and EDR.
 
 ---
 
