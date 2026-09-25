@@ -35,6 +35,7 @@ I secure and troubleshoot enterprise networks. I spent over a year in **Palo Alt
 
 | Project | What it shows |
 |---|---|
+| [**kubernetes-siem-edr-lab**](https://github.com/princewillsmith/kubernetes-siem-edr-lab) | ⭐ Local SOC on Docker: kind Kubernetes + Falco eBPF EDR + Grafana Loki SIEM, attack simulation, 5 verified alert rules |
 | [**network-engineer-labs**](https://github.com/princewillsmith/network-engineer-labs) | Routing & switching notes and a Palo Alto CLI cheat sheet (packet-diag, IPsec, GlobalProtect), plus interview notes |
 | [**aws-networking-labs**](https://github.com/princewillsmith/aws-networking-labs) | VPC design, SGs vs NACLs, Transit Gateway segmentation, IPsec + BGP VPN to Palo Alto |
 | [**terraform-labs**](https://github.com/princewillsmith/terraform-labs) | Secure two-tier AWS VPC as code: bastion, private app, flow logs, IMDSv2 |
